@@ -1,0 +1,10 @@
+{
+  "name": "project-oop",
+  "version": "1.0.0",
+  "description": "first project of oop",
+  "main": "index.js",
+  "repository": "https://github.com/fadhilahade/project-javascript-oop.git",
+  "author": "fadhilahade",
+  "license": "MIT",
+  "private": true
+}
